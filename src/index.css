@@ -5,12 +5,6 @@
 
 @custom-variant dark (&:is(.dark *));
 
-.poppins {
-  font-family: "Poppins", serif;
-  font-optical-sizing: auto;
-  font-weight: weight;
-  font-style: normal;
-}
 
 @theme inline {
   --font-heading: var(--font-sans);

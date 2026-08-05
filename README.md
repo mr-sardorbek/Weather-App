@@ -6,15 +6,7 @@ A modern and responsive weather application built with **React** and **Tailwind 
 
 ## 📸 Screenshot
 
-> Add your screenshot here
-
-```md
 ![Weather App Screenshot](./src/assets/screenshot.jpg)
-```
-
-> Replace `screenshot.png` with your actual screenshot file name.
-
----
 
 ## ✨ Features
 

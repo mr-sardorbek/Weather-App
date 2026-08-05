@@ -1,5 +1,5 @@
-import { CloudEffect, MinstEffect, SnowEffect, SunEffect, ThunderEffect } from "..";
-import RainEffect from "./RainEffect";
+import { CloudEffect, MinstEffect, RainEffect, SnowEffect, SunEffect, ThunderEffect } from "..";
+
 
 const BackgroundEffects = ({ condition }) => {
   if (!condition) return null;
